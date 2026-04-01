@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Al-Buraiki</h1>
+<h1 align="center">Hi 👋, I'm mohammad elburiqi</h1>
 <h3 align="center">Computer Science Student | Python & Data Enthusiast</h3>
 
 <p align="center">
